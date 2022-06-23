@@ -6,7 +6,7 @@ sidebar: true
 sidebarDepth: 2
 ---
 
-Exdcutar um nó próprio proporciona vários benefícios, abre novas possibilidades e ajuda a dar suporte ao ecossistema. Esta página vai ajudar você a iniciar seu próprio nó, para assim participar na validação das transações de Ethereum.
+Executar um nó próprio proporciona vários benefícios, abre novas possibilidades e ajuda a dar suporte ao ecossistema. Esta página vai ajudar você a iniciar seu próprio nó, para assim participar na validação das transações de Ethereum.
 
 ## Pré-requisitos {#prerequisites}
 
